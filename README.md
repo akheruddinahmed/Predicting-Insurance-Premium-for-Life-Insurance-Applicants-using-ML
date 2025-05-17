@@ -72,17 +72,6 @@ Visit: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - **Best Model:** Gradient Boosting Regressor
 - **Evaluation Metrics:** R² Score, Mean Absolute Error
 
----
-
-## 📈 Screenshot
-
-![Screenshot](Screenshot%202025-05-17%20at%208.35.12%E2%80%AFAM.png)
-
----
-
-## 👨‍💻 Developed By
-
-Students of **CIT Kokrajhar**, Department of Computer Science & Engineering.
 
 ---
 
